@@ -3997,7 +3997,7 @@
     },
     {
         "name": "ExHentai.org",
-        "url": "^https?://exhentai\\.org/(?!g)",
+        "url": "^https?://exhentai\\.org/?",
         "nextLink": "body > div.ido > div:nth-of-type(2) > div.searchnav > div:nth-of-type(5) > a",
         "pageElement": "body > div.ido > div:nth-of-type(2)",
         "insert": "body > div.ido > div:nth-of-type(2)",
@@ -4006,7 +4006,7 @@
     },
         {
         "name": "HARMONHentai.org",
-        "url": "^https?://exhentai\\.org/(s)",
+        "url": "^https?://exhentai\\.org/s",
         "nextLink": "body > div#i1.sni > div#i3 > a ",
         "pageElement": "body > div#i1.sni > div#i3 > a ",
         "insert": "body > div#i1.sni > div#i3 > a ",
