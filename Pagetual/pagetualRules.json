@@ -4007,9 +4007,9 @@
         {
         "name": "HARMONHentai.org",
         "url": "^https?://exhentai\\.org/(s)",
-        "nextLink": "body > div#i1.sni > div#i3 > a > img#img",
-        "pageElement": "body > div#i1.sni > div#i3 > a > img#img",
-        "insert": "body > div#i1.sni > div#i3 > a > img#img",
+        "nextLink": "body > div#i1.sni > div#i3 > a > img",
+        "pageElement": "body > div#i1.sni > div#i3 > a > img",
+        "insert": "body > div#i1.sni > div#i3 > a > img",
         "insertPos": 2,
         "pinUrl": true
     },
