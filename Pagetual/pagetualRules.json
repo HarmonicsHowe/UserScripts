@@ -4004,6 +4004,15 @@
         "insertPos": 2,
         "pinUrl": true
     },
+        {
+        "name": "HARMONHentai.org",
+        "url": "^https?://exhentai\\.org/(s)",
+        "nextLink": "body > div#i1.sni > div#i3 > a > img#img",
+        "pageElement": "body > div#i1.sni > div#i3 > a > img#img",
+        "insert": "body > div#i1.sni > div#i3 > a > img#img",
+        "insertPos": 2,
+        "pinUrl": true
+    },
     {
         "name": "177 漫画/xxiav",
         "example": "www.177picyy.com，www.xxiav.com",
